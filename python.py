@@ -1,0 +1,2 @@
+string="NISHANTH"
+print(string)
